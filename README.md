@@ -46,6 +46,7 @@ Want to see the concierge in action? Follow these steps:
 ```bash
 git clone <your-repo-url>
 cd nox-hackathon
+```
 
 **2. Set up a virtual environment**
 ```bash
@@ -66,10 +67,10 @@ pip install streamlit pillow
 streamlit run app.py
 ```
 
-🎥 Demo Video
+🎥 Demo Video   
 See the multimodal AI stylist in action:
 
-👉 WATCH THE DEMO VIDEO HERE 👈
+👉 https://youtu.be/XCbwfmtgCu8 👈
 
 📜 Disclaimer
 This project is submitted for the Agents League Hackathon. No confidential, sensitive, or proprietary user information is included in this repository.
