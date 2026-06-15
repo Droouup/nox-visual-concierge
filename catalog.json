@@ -1,0 +1,197 @@
+[
+  {
+    "id": "o1",
+    "brand": "Oakley",
+    "name": "Oakley Tincan Cap",
+    "price": "$120.000",
+    "color_hex": "#8B4513",
+    "color": "Rusty Brown",
+    "style_tags": [
+      "sport",
+      "aerodynamic"
+    ],
+    "image": "img/oakley5.png"
+  },
+  {
+    "id": "o2",
+    "brand": "Oakley",
+    "name": "Oakley Silicon Bark",
+    "price": "$115.000",
+    "color_hex": "#000000",
+    "color": "Black",
+    "style_tags": [
+      "sport",
+      "technical"
+    ],
+    "image": "img/oakley4.png"
+  },
+  {
+    "id": "o3",
+    "brand": "Oakley",
+    "name": "Oakley Mark II",
+    "price": "$110.000",
+    "color_hex": "#4A4A4A",
+    "color": "Charcoal",
+    "style_tags": [
+      "sport",
+      "classic"
+    ],
+    "image": "img/oakley2.png"
+  },
+  {
+    "id": "o4",
+    "brand": "Oakley",
+    "name": "Oakley Chalten",
+    "price": "$130.000",
+    "color_hex": "#1A365D",
+    "color": "Navy Blue",
+    "style_tags": [
+      "performance",
+      "mesh"
+    ],
+    "image": "img/oakely3.png"
+  },
+  {
+    "id": "o5",
+    "brand": "Oakley",
+    "name": "Oakley 6 Panel",
+    "price": "$125.000",
+    "color_hex": "#556B2F",
+    "color": "Olive",
+    "style_tags": [
+      "lifestyle",
+      "urban"
+    ],
+    "image": "img/oakley.png"
+  },
+  {
+    "id": "f1",
+    "brand": "Fox",
+    "name": "Fox Racing Instill",
+    "price": "$105.000",
+    "color_hex": "#653921",
+    "color": "Earth Brown",
+    "style_tags": [
+      "urban",
+      "aggressive"
+    ],
+    "image": "img/foxs.png"
+  },
+  {
+    "id": "f2",
+    "brand": "Fox",
+    "name": "Fox Epicycle Flexfit",
+    "price": "$110.000",
+    "color_hex": "#8B0000",
+    "color": "Dark Red",
+    "style_tags": [
+      "racing",
+      "streetwear"
+    ],
+    "image": "img/foxn.png"
+  },
+  {
+    "id": "f3",
+    "brand": "Fox",
+    "name": "Fox Honda Snapback",
+    "price": "$125.000",
+    "color_hex": "#FF0000",
+    "color": "Honda Red",
+    "style_tags": [
+      "motocross",
+      "bold"
+    ],
+    "image": "img/foxi.png"
+  },
+  {
+    "id": "f4",
+    "brand": "Fox",
+    "name": "Fox Legacy Flexfit",
+    "price": "$100.000",
+    "color_hex": "#000000",
+    "color": "Stealth Black",
+    "style_tags": [
+      "classic",
+      "dark"
+    ],
+    "image": "img/foxa.png"
+  },
+  {
+    "id": "f5",
+    "brand": "Fox",
+    "name": "Fox Pinnacle Mesh",
+    "price": "$95.000",
+    "color_hex": "#808080",
+    "color": "Grey",
+    "style_tags": [
+      "casual",
+      "mesh"
+    ],
+    "image": "img/fox.png"
+  },
+  {
+    "id": "a1",
+    "brand": "Alpinestars",
+    "name": "Alpinestars Ageless",
+    "price": "$115.000",
+    "color_hex": "#000000",
+    "color": "Absolute Black",
+    "style_tags": [
+      "racing",
+      "dark"
+    ],
+    "image": "img/alpines.png"
+  },
+  {
+    "id": "a2",
+    "brand": "Alpinestars",
+    "name": "Alpinestars Blaze",
+    "price": "$120.000",
+    "color_hex": "#FFA500",
+    "color": "Neon Orange",
+    "style_tags": [
+      "aggressive",
+      "racing"
+    ],
+    "image": "img/alpicali.png"
+  },
+  {
+    "id": "a3",
+    "brand": "Alpinestars",
+    "name": "Alpinestars Corp Shift",
+    "price": "$110.000",
+    "color_hex": "#FFFFFF",
+    "color": "Pure White",
+    "style_tags": [
+      "clean",
+      "motorsport"
+    ],
+    "image": "img/alpinesas.png"
+  },
+  {
+    "id": "a4",
+    "brand": "Alpinestars",
+    "name": "Alpinestars Linear",
+    "price": "$105.000",
+    "color_hex": "#2F4F4F",
+    "color": "Dark Slate",
+    "style_tags": [
+      "technical",
+      "subtle"
+    ],
+    "image": "img/alpinm.png"
+  },
+  {
+    "id": "a5",
+    "brand": "Alpinestars",
+    "name": "Alpinestars Ride",
+    "price": "$115.000",
+    "color_hex": "#000080",
+    "color": "Deep Navy",
+    "style_tags": [
+      "lifestyle",
+      "streetwear"
+    ],
+    "image": "img/alpios.png"
+  }
+]
