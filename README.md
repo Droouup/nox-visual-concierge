@@ -2,6 +2,12 @@
 
 > **Scanning your style. Curating your perfect Nox. match.**
 
+🎥 Demo Video   
+See the multimodal AI stylist in action:
+
+👉 https://youtu.be/XCbwfmtgCu8 👈
+
+
 **Nox. Visual Concierge** is an innovative, multimodal AI-powered styling assistant and multi-brand luxury curator built exclusively for the **Agents League Hackathon (2026)**.
 
 ---
@@ -67,10 +73,6 @@ pip install streamlit pillow
 streamlit run app.py
 ```
 
-🎥 Demo Video   
-See the multimodal AI stylist in action:
-
-👉 https://youtu.be/XCbwfmtgCu8 👈
 
 📜 Disclaimer
 This project is submitted for the Agents League Hackathon. No confidential, sensitive, or proprietary user information is included in this repository.
